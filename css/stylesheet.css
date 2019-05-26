@@ -148,16 +148,24 @@ hr {
 	width: 98%; background: #4286f4;
 }
 
-.lord,.dude,.game {
+.owner,.admin,.mod,.helper,.game {
 	padding: 12px;
 }
 
-.lord {
+.owner {
 	background-color: rgba(233,30,99,.5);
 }
 
-.dude {
+.admin {
 	background-color: rgba(173,20,87,.5);
+}
+
+.mod {
+	background-color: rgba(113,54,138,.5);
+}
+
+.helper {
+	background-color: rgba(155,89,182,.5);
 }
 
 .game {
